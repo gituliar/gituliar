@@ -2,8 +2,12 @@
 
 ### My Projects
 
-- [Fuchsia](hhtps://github.com/gituliar/fuchsia) -- a Python tool to find analytical solutions of
+- [Fuchsia](https://github.com/gituliar/fuchsia) – a Python tool to find analytical solutions of
   differential equations for Feynman master integrals written.
+
+  Published in [Comput. Phys.
+  Commun. Vol 219, 2017, p.329](http://www.sciencedirect.com/science/article/pii/S0010465517301340)
+  (preprint: [arXiv:1701.04269](http://arxiv.org/abs/arXiv:1701.04269)).
 
 <!--
 **gituliar/gituliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
