@@ -3,7 +3,7 @@
 ### My Projects
 
 - [Fuchsia](https://github.com/gituliar/fuchsia) – a Python tool to find analytical solutions of
-  differential equations for Feynman master integrals written.
+  differential equations for Feynman master integrals.
 
   Published in [Comput. Phys.
   Commun. Vol 219, 2017, p.329](http://www.sciencedirect.com/science/article/pii/S0010465517301340)
