@@ -1,12 +1,18 @@
-### Hi there 👋
-
 ### My Projects
 
-- [Fuchsia](https://github.com/gituliar/fuchsia) – a Python tool to find analytical solutions of
-  differential equations for Feynman master integrals.
+- [tastyhedge.com](https://tatsyhedge.com) – is a blog about **Programming** and **Quantitative
+  Finance**.
 
-  Published in [Comput. Phys.
-  Commun. Vol 219, 2017, p.329](http://www.sciencedirect.com/science/article/pii/S0010465517301340)
+- [tastyhedge](https://github.com/gituliar/tastyhedge) – accompanying **C++ Code** and **Market
+  Data** for [tastyhedge.com](https://tatsyhedge.com) blog.
+
+- [kwinto-cuda](https://github.com/gituliar/kwinto-cuda) – **Quantitative Finance** on GPU.
+
+- [fuchsia](https://github.com/gituliar/fuchsia) – a Python tool to find **analytical solutions** of
+  differential equations for **Feynman integrals**.
+
+  Published in
+  [Comput. Phys. Commun. Vol 219, 2017, p.329](http://www.sciencedirect.com/science/article/pii/S0010465517301340)
   (preprint: [arXiv:1701.04269](http://arxiv.org/abs/arXiv:1701.04269)).
 
 <!--
