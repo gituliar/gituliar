@@ -1,6 +1,6 @@
 ### My Projects
 
-- [tastyhedge.com](https://tatsyhedge.com) – is a blog about **Programming** and **Quantitative
+- [tastyhedge.com](https://tatsyhedge.com) – a blog about **Programming** and **Quantitative
   Finance**.
 
 - [tastyhedge](https://github.com/gituliar/tastyhedge) – accompanying **C++ Code** and **Market
