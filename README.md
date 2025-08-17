@@ -2,11 +2,11 @@
 
 - [tastyhedge.com](https://tastyhedge.com) – Blog about **Programming** & **Quantitative Finance**
 
-- [tastyhedge](https://github.com/gituliar/tastyhedge) – **C++ Snippets** for [tastyhedge.com](https://tatsyhedge.com) blog
+- [tastyhedge](https://github.com/gituliar/tastyhedge) – **C++ code** for [tastyhedge.com](https://tatsyhedge.com) blog
 
 - [kwinto-cuda](https://github.com/gituliar/kwinto-cuda) – **Finite-Difference Pricer** for GPU
 
-- [fuchsia](https://github.com/gituliar/fuchsia) – Python tool for solving differential equations for **Feynman integrals**
+- [fuchsia](https://github.com/gituliar/fuchsia) (cited by 200+) – Python library for solving differential equations in particle physics
 
   Published in
   [Comput. Phys. Commun. Vol 219, 2017, p.329](http://www.sciencedirect.com/science/article/pii/S0010465517301340)
