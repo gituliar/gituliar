@@ -4,7 +4,7 @@
 
 - [tastyhedge](https://github.com/gituliar/tastyhedge) – **C++ code** for [tastyhedge.com](https://tatsyhedge.com) blog
 
-- [kwinto-cuda](https://github.com/gituliar/kwinto-cuda) – **Finite-Difference Pricer** for GPU
+- [kwinto-cuda](https://github.com/gituliar/kwinto-cuda) – GPU-accelerated **Finite-Difference Pricer** in CUDA
 
 - [fuchsia](https://github.com/gituliar/fuchsia) (cited by 200+) – Python library for solving differential equations in particle physics
 
