@@ -1,12 +1,12 @@
 ### My Projects
 
-- [tastyhedge.com](https://tastyhedge.com) – Blog about **Programming** & **Quantitative Finance**
+- [TastyHedge.com](https://tastyhedge.com) – Blog about **Programming** & **Quantitative Finance**
 
-- [tastyhedge](https://github.com/gituliar/tastyhedge) – **C++ code** for [tastyhedge.com](https://tatsyhedge.com) blog
+- [TastyHedge](https://github.com/gituliar/tastyhedge) – **C++ code** for [tastyhedge.com](https://tatsyhedge.com) blog
 
-- [kwinto-cuda](https://github.com/gituliar/kwinto-cuda) – GPU-accelerated **Finite-Difference Pricer** in CUDA
+- [KwintoCuda](https://github.com/gituliar/kwinto-cuda) – GPU-accelerated **Finite-Difference Pricer** in CUDA
 
-- [fuchsia](https://github.com/gituliar/fuchsia) (cited by 200+) – Python library for solving differential equations in particle physics
+- [Fuchsia](https://github.com/gituliar/fuchsia) (cited by 200+) – Python library for solving differential equations in particle physics
 
   Published in
   [Comput. Phys. Commun. Vol 219, 2017, p.329](http://www.sciencedirect.com/science/article/pii/S0010465517301340)
