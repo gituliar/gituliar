@@ -2,7 +2,7 @@
 
 - [TastyHedge.com](https://tastyhedge.com) – Blog about **Programming** & **Quantitative Finance**
 
-- [TastyHedge](https://github.com/gituliar/tastyhedge) – **C++ code** for [tastyhedge.com](https://tastyhedge.com) blog
+- [TastyHedge](https://github.com/tastyhedge/tastyhedge.github.io) – **C++ code** for [tastyhedge.com](https://tastyhedge.com) blog
 
 - [KwintoCuda](https://github.com/gituliar/kwinto-cuda) – GPU-accelerated **Finite-Difference Pricer** in CUDA
 
